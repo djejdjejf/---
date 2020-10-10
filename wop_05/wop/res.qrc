@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/begin.png</file>
+        <file>image/big.png</file>
+        <file>image/boss.png</file>
+        <file>image/bullet_1.png</file>
+        <file>image/bullet_e_1.png</file>
+        <file>image/charger.png</file>
+        <file>image/ending.png</file>
+        <file>image/enemy_1.png</file>
+        <file>image/gameover.png</file>
+        <file>image/goldcoin.png</file>
+        <file>image/hanger.png</file>
+        <file>image/me.png</file>
+        <file>image/wall.png</file>
+        <file>music/boss_1.mp3</file>
+        <file>music/boss_2.mp3</file>
+        <file>music/chijinbi.mp3</file>
+        <file>music/normal_1.mp3</file>
+        <file>music/normal_2.mp3</file>
+        <file>music/shoot.mp3</file>
+        <file>music/update.mp3</file>
+    </qresource>
+</RCC>
